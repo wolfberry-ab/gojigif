@@ -1,0 +1,20 @@
+# GojiGif Security Policy
+# RFC 9116 — see https://securitytxt.org
+
+Contact: mailto:security@wolfberry.se
+Expires: 2027-06-17T00:00:00.000Z
+Preferred-Languages: en, sv
+Canonical: https://gojigif.wolfberry.se/.well-known/security.txt
+
+# Where to follow security updates
+# 1. GitHub Security Advisories (primary) — security-only notifications
+#    https://github.com/wolfberry-ab/gojigif/security/advisories
+# 2. GitHub Releases Atom feed (all releases) — fallback if you want
+#    every update including non-security patches
+#    https://github.com/wolfberry-ab/gojigif/releases.atom
+# 3. Email — write to security@wolfberry.se for direct contact
+
+# Reporting a vulnerability
+# Please email security@wolfberry.se or open a private security advisory at
+# https://github.com/wolfberry-ab/gojigif/security/advisories/new
+# We aim to acknowledge reports within 72 hours.
