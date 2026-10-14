@@ -1,0 +1,177 @@
+GojiGif — End User Licence Agreement
+====================================
+
+Version 1.0 · Effective 29 August 2026
+
+    DRAFT — NOT YET REVIEWED BY COUNSEL.
+
+    This agreement was drafted internally to close a release blocker: GojiGif was
+    being distributed as a signed commercial binary with no licence terms at all.
+    It states the terms Wolfberry AB intends, but it has not been reviewed by a
+    lawyer. Have it reviewed before the 1.0 release, in particular the liability
+    and consumer-rights clauses, which are the ones most likely to need adjusting
+    for the markets the app is sold or distributed in. Remove this notice once
+    that review is done.
+
+This End User Licence Agreement ("Agreement") is a legal agreement between you,
+either an individual or a single legal entity ("you"), and Wolfberry AB, a company
+registered in Sweden ("Wolfberry", "we", "us"), for the GojiGif software, including
+its executable code, associated media and documentation ("the Software").
+
+By installing, copying or using the Software you agree to be bound by this
+Agreement. If you do not agree, do not install or use the Software.
+
+
+1. Licence grant
+----------------
+
+Subject to your compliance with this Agreement, Wolfberry grants you a
+non-exclusive, non-transferable, revocable licence to install and use the Software
+on devices you own or control, for your personal use or for the internal business
+purposes of your organisation.
+
+
+2. Restrictions
+---------------
+
+Except to the extent the following restrictions are prohibited by applicable law,
+or expressly permitted by us in writing, you may not:
+
+  a. distribute, sell, rent, lease, sublicense or otherwise make the Software
+     available to third parties;
+
+  b. modify, adapt or create derivative works of the Software;
+
+  c. reverse engineer, decompile or disassemble the Software, or otherwise attempt
+     to derive its source code;
+
+  d. remove, obscure or alter any copyright, trademark or other proprietary notice
+     in or on the Software; or
+
+  e. use the Software to infringe the rights of others, or in breach of applicable
+     law — including recording another person's screen, or content displayed on it,
+     without the consent or legal basis that law requires.
+
+Nothing in this section limits any right you have under mandatory law that cannot
+be excluded by agreement. In particular, nothing here restricts acts of
+decompilation permitted under Article 6 of Directive 2009/24/EC on the legal
+protection of computer programs, or the corresponding provisions of Swedish law.
+
+
+3. Ownership
+------------
+
+The Software is licensed, not sold. Wolfberry and its licensors retain all right,
+title and interest in and to the Software, including all intellectual property
+rights in it. This Agreement grants you no rights other than the licence expressly
+set out in section 1.
+
+
+4. Your recordings
+------------------
+
+The Software records your screen and writes the result to your device as an
+animated GIF. Those recordings are yours. Wolfberry claims no rights in them, and
+this Agreement grants us no licence to them.
+
+The Software transmits no data to Wolfberry or to any third party: it makes no
+network requests, collects no telemetry and contains no analytics. See
+docs/Privacy.md and the privacy policy published with the Software.
+
+You are responsible for what you record. Screen recordings can capture personal
+data, credentials and confidential material, and you are responsible for having any
+consent or legal basis that recording and sharing them requires.
+
+
+5. Third-party components
+-------------------------
+
+The Software includes components licensed by third parties, listed in
+THIRD-PARTY-LICENSES.md, which is distributed with the Software. Those components
+are governed by their own licence terms, which take precedence over this Agreement
+in respect of those components.
+
+
+6. Updates
+----------
+
+Wolfberry may make updates to the Software available. Unless an update is
+accompanied by different terms, this Agreement applies to it. Wolfberry is under no
+obligation to provide updates, support or maintenance.
+
+
+7. No warranty
+--------------
+
+To the maximum extent permitted by applicable law, the Software is provided "as
+is" and "as available", without warranty of any kind, whether express, implied or
+statutory, including any implied warranty of merchantability, fitness for a
+particular purpose, or non-infringement. Wolfberry does not warrant that the
+Software will be uninterrupted or error-free, or that it will capture or preserve
+any particular recording.
+
+If you are a consumer, you may have statutory rights that this section cannot
+exclude or limit, and nothing in it affects those rights.
+
+
+8. Limitation of liability
+--------------------------
+
+To the maximum extent permitted by applicable law, Wolfberry shall not be liable
+for any indirect, incidental, special or consequential damages, or for loss of
+profits, revenue, data or recordings, arising out of or in connection with the
+Software or this Agreement, however caused and on any theory of liability.
+
+Wolfberry's total aggregate liability arising out of or in connection with the
+Software or this Agreement shall not exceed the greater of the amount you paid for
+the Software in the twelve months preceding the event giving rise to the claim, or
+one hundred (100) euro.
+
+Nothing in this Agreement excludes or limits liability for death or personal
+injury caused by negligence, for fraud or fraudulent misrepresentation, for gross
+negligence or wilful misconduct, or for any other liability that cannot lawfully be
+excluded or limited.
+
+
+9. Term and termination
+-----------------------
+
+This Agreement applies from the moment you first install or use the Software until
+terminated. It terminates automatically if you breach any of its terms. On
+termination you must stop using the Software and remove all copies of it from your
+devices. Sections 3, 4, 5, 7, 8, 10 and 11 survive termination.
+
+
+10. Governing law and jurisdiction
+----------------------------------
+
+This Agreement is governed by the laws of Sweden, without regard to its
+conflict-of-laws rules. The courts of Sweden, with Stockholm District Court as the
+court of first instance, shall have exclusive jurisdiction over any dispute arising
+out of or in connection with it.
+
+If you are a consumer resident in the European Union, this choice of law and forum
+does not deprive you of the protection of mandatory provisions of the law of your
+country of residence, or of your right to bring proceedings there.
+
+
+11. General
+-----------
+
+This Agreement is the entire agreement between you and Wolfberry concerning the
+Software, and supersedes any prior understanding relating to it. If any provision
+is held unenforceable, it shall be modified to the minimum extent necessary to make
+it enforceable, and the remaining provisions shall remain in full force. A failure
+to enforce a provision is not a waiver of it. You may not assign this Agreement
+without our prior written consent.
+
+
+Contact
+-------
+
+Wolfberry AB
+https://wolfberry.se
+Licensing enquiries: info@wolfberry.se
+Security reports: security@wolfberry.se (see SECURITY.md)
+
+Copyright © 2026 Wolfberry AB. All rights reserved.
